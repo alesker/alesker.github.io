@@ -1,5 +1,12 @@
 .DS_Store
 *.swp
 
-# Ruby
-vendor/bundle
+# Bundler
+vendor
+
+#Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
